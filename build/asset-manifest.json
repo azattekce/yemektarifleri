@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/yemek-tarifleri/static/css/main.0f5af2bf.css",
-    "main.js": "/yemek-tarifleri/static/js/main.357e0f4a.js",
-    "static/media/light.svg": "/yemek-tarifleri/static/media/light.ceb162974b1ce6f288172395350322a7.svg",
-    "index.html": "/yemek-tarifleri/index.html",
-    "static/media/dark.svg": "/yemek-tarifleri/static/media/dark.69eec2816f318b8d45bbb51800588270.svg",
-    "main.0f5af2bf.css.map": "/yemek-tarifleri/static/css/main.0f5af2bf.css.map",
-    "main.357e0f4a.js.map": "/yemek-tarifleri/static/js/main.357e0f4a.js.map"
+    "main.css": "/yemektarifleri/static/css/main.0f5af2bf.css",
+    "main.js": "/yemektarifleri/static/js/main.a64c994e.js",
+    "static/media/light.svg": "/yemektarifleri/static/media/light.ceb162974b1ce6f288172395350322a7.svg",
+    "index.html": "/yemektarifleri/index.html",
+    "static/media/dark.svg": "/yemektarifleri/static/media/dark.69eec2816f318b8d45bbb51800588270.svg",
+    "main.0f5af2bf.css.map": "/yemektarifleri/static/css/main.0f5af2bf.css.map",
+    "main.a64c994e.js.map": "/yemektarifleri/static/js/main.a64c994e.js.map"
   },
   "entrypoints": [
     "static/css/main.0f5af2bf.css",
-    "static/js/main.357e0f4a.js"
+    "static/js/main.a64c994e.js"
   ]
 }
